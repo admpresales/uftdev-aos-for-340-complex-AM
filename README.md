@@ -1,4 +1,4 @@
-# uftdev-aos-web-for320
+# uftdev-aos-web-for-340-complex-AM
 
 ## Description
 This test is used as a resource for the UFT Developer level 340 training.
